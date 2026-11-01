@@ -12,6 +12,10 @@ A browser reimplementation of Geometry Dash 2.2 written from scratch in TypeScri
 | Pause | Esc |
 | Practice mode | start it from the pause menu; Z places a checkpoint, X removes one |
 
+## Found a bug?
+
+Use the **Report a bug** link at the bottom of the game (on the menus, or from the pause menu during a level), or [open an issue](https://github.com/skornuta/geometry-web-dash-demo/issues/new). It prefills your browser and screen size; please add the level and what you pressed.
+
 ## Notice
 
 This is an unofficial fan project and is not affiliated with or endorsed by RobTop Games AB.
