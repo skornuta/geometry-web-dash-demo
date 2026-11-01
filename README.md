@@ -2,6 +2,10 @@
 
 **Play it: https://skornuta.github.io/geometry-web-dash-demo/**
 
+**Check out the full repo here! I will take it down later as it has some parts from the real game. https://github.com/skornuta/geometry-web-dash**
+
+As for the CSS, It was partly written by ai, but most of it was written by me and inspired by the real game code from my steam copy.
+
 A browser reimplementation of Geometry Dash 2.2 written from scratch in TypeScript and WebGL2: the 22 main levels, all eight gamemodes, the menus and the icon kit. Progress is saved in your browser (localStorage); there is no server.
 
 ## Controls
