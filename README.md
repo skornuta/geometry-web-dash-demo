@@ -16,6 +16,14 @@ A browser reimplementation of Geometry Dash 2.2 written from scratch in TypeScri
 | Pause | Esc |
 | Practice mode | start it from the pause menu; Z places a checkpoint, X removes one |
 
+## Make your own copy (about 30 seconds)
+
+1. [Fork this repo](https://github.com/skornuta/geometry-web-dash-demo/fork).
+2. In your fork open **Settings → Pages**, set **Source** to **Deploy from a branch**, pick **main** and **/ (root)**, and save.
+3. After a minute your copy is live at `https://<your-username>.github.io/<fork-name>/`.
+
+The site is plain static files built to work under any repository name, so there is nothing to configure or build. A fork does not need GitHub Actions. The "Report a bug" link in your copy still files issues here.
+
 ## Found a bug?
 
 Use the **Report a bug** link at the bottom of the game (on the menus, or from the pause menu during a level), or [open an issue](https://github.com/skornuta/geometry-web-dash-demo/issues/new). It prefills your browser and screen size; please add the level and what you pressed.
