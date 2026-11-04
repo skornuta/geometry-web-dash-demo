@@ -2,7 +2,8 @@
 
 **Play it: https://skornuta.github.io/geometry-web-dash-demo/**
 
-**Check out the full repo here! I will take it down later as it has some parts from the real game. https://github.com/skornuta/geometry-web-dash**
+# Check out the full repo here! 
+I will take it down later as it has some assets from the real game. https://github.com/skornuta/geometry-web-dash
 
 As for the CSS, It was partly written by ai, but most of it was written by me and inspired by the real game code from my steam copy.
 
